@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello JS</h1>
+<script>
+console.log("Hello world!");
+</script>
+</body>
+</html>
+
+브렌츠 관련 강의
+여기서 부터 두번째로 수정하는게 맞는거 같아..
